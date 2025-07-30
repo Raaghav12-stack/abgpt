@@ -8,7 +8,6 @@ ABGPT is a full-stack AI system that performs intelligent financial analysis and
 - Source trace
 - Markdown + tables rendered dynamically
 
-
 ## Backend Setup (FastAPI)
 
 ### 1.Create virtual environment
@@ -21,4 +20,15 @@ ABGPT is a full-stack AI system that performs intelligent financial analysis and
 ## Frontend Setup (Vite + React)
 ### npm install
 ### npm run dev
+
+## Tech Stack
+### 1. Backend 
+#### Python + FastAPI
+#### Vector Store : FAISS
+#### Embedding Model : all-MiniLM-L6-v2
+
+### 2. FrontEnd
+#### React + Vite Framework
+
+  
 
